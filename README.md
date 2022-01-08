@@ -1,0 +1,2 @@
+# joplin
+Joplin config files
